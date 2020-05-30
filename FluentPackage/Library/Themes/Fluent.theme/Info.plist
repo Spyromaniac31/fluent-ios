@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>PackageName</key>
+        <string>Fluent</string>
+        <key>ThemeType</key>
+        <string>Icons</string>
+        <key>CalendarIconDateSettings</key>
+        <dict>
+            <key>TextColor</key>
+            <string>#F2F2F2</string>
+            <key>FontSize</key>
+            <integer>28</integer>
+            <key>TextYoffset</key>
+            <real>3.5</real>
+            <key>FontName</key>
+            <string>SF Pro</string> 
+        </dict>
+        <key>CalendarIconDaySettings</key>
+        <dict>
+            <key>TextColor</key>
+            <string>#F2F2F2</string>
+            <key>FontSize</key>
+            <integer>0</integer>  
+        </dict>
+    </dict>
+</plist>
