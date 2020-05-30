@@ -1,0 +1,9 @@
+Package: com.henryp.fluent
+Name: Fluent
+Version: 1.3
+Architecture: iphoneos-arm
+Description: A theme with Microsoft's Fluent Design icons.
+Author: HenryP
+Maintainer: HenryP
+Section: Themes
+Depends: com.anemonetheming.anemone | com.spark.snowboard
